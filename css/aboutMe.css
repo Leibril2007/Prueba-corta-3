@@ -33,12 +33,10 @@
 }
 .perfil2 img{
     width: 90%;
-    height: 95%;
-    /* width: 83%; */
-    /* height: 25rem; */
+    height: 107%;
+
     object-fit: cover;
 
-    /* object-position: bottom; */
     border: 1rem solid white;
     position: absolute;
     top: -5rem;

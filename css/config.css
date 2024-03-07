@@ -25,7 +25,7 @@ html{
 }
 
 /* LAPTOP */
-@media only screen and (min-width: 1366px) {
+@media only screen and (min-width: 1290px) {
     .pantalla{
         max-width: 100%;
         padding: 1rem 2rem;
