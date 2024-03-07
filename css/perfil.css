@@ -36,7 +36,7 @@
     margin: 4rem 0rem;
 }
 
-@media screen and (min-width: 1366px) {
+@media screen and (min-width:  1200px) {
    
     .perfil{
         height: 20rem;
