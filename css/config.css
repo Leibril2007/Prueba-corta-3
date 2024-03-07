@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+    font-family: Calibri;
+}
+
+.pantalla{
+    max-width: 37.5rem;
+    margin: auto;
+    padding: 1rem;
+}
+/* TABLETA */
+
+/* esta es una condicion que se aplicara cuando la pantalla sea de 720px */
+@media only screen and (max-width: 720px){
+
+    .pantalla{
+        max-width: 72rem;
+        padding: 1rem 2rem;
+    }
+}
+
+/* LAPTOP */
+@media only screen and (min-width: 1366px) {
+    .pantalla{
+        max-width: 100%;
+        padding: 1rem 2rem;
+    }
+}
+
+
+    
